@@ -81,7 +81,7 @@ transform: translateX(-30%);
 filter: brightness(80%);
 }
 *.t1 {
-    background-color: #eb9b50;
+    background-color: #d8761b;
     height: 250px;
     left: 100px;
     position: absolute;
@@ -120,3 +120,4 @@ filter: brightness(80%);
     top: -100px;
     width: 150px;
   }
+
